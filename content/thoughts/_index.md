@@ -1,0 +1,18 @@
+---
+title: Thoughts
+next: thoughts/first-page
+---
+
+This is a demo of the theme's documentation layout.
+
+## Hello, World!
+
+```go {filename="main.go"}
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Hello, World!")
+}
+```
