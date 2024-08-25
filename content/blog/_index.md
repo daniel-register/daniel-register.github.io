@@ -1,6 +1,6 @@
 ---
-title: Thoughts
-next: thoughts/first-page
+title: Blog
+next: blog/first-page
 ---
 
 This is a demo of the theme's documentation layout.

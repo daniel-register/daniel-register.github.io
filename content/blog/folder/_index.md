@@ -1,8 +1,8 @@
 ---
 title: Folder
 type: docs
-prev: thoughts/first-page
-next: thoughts/folder/leaf
+prev: blog/first-page
+next: blog/folder/leaf
 sidebar:
   open: true
 ---

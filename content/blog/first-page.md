@@ -2,7 +2,7 @@
 title: Demo Page
 type: docs
 prev: /
-next: thoughts/folder/
+next: blog/folder/
 ---
 
 A simple demo page.
