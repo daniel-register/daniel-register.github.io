@@ -1,6 +1,7 @@
 ---
-title: Blog
-next: about/
+title: Example
+type: blog
+next: example/first-page
 ---
 
 This is a demo of the theme's documentation layout.

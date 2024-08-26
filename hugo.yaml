@@ -22,23 +22,32 @@ menu:
     - name: Blog
       pageRef: /blog
       weight: 2
+    - name: Example
+      pageRef: /example
+      weight: 3
     - name: Contact ↗
       url: "mailto:Daniel.Register05@gmail.com"
-      weight: 3
-    - name: Search
       weight: 4
+    - name: Search
+      weight: 5
       params:
         type: search
     - name: GitHub
-      weight: 5
+      weight: 6
       url: "https://github.com/daniel-register/daniel-register.github.io"
       params:
         icon: github
-
+  
 params:
   navbar:
     displayTitle: true
     displayLogo: false
+    logo:
+      path: favicon.svg
+      dark: favicon-dark.svg
+      link: /
+      width: 40
+      height: 20
 
   footer:
     displayCopyright: false
