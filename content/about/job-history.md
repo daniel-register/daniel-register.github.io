@@ -1,6 +1,7 @@
 ---
 title: 'Job History'
 date: 2024-08-26T14:45:28-06:00
+draft: true
 type: docs
 prev: about/
 ---

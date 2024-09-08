@@ -10,5 +10,4 @@ I'm a software engineer with experience in cloud infrastructure management and S
 {{< cards >}}
   {{< card link="about" title="About Me" icon="user" >}}
   {{< card link="blog" title="Blog" icon="book-open" >}}
-  {{< card link="example" title="Example Content" icon="book-open" >}}
 {{< /cards >}}

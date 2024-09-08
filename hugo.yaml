@@ -22,9 +22,6 @@ menu:
     - name: Blog
       pageRef: /blog
       weight: 2
-    - name: Example
-      pageRef: /example
-      weight: 3
     - name: Contact ↗
       url: "mailto:Daniel.Register05@gmail.com"
       weight: 4
@@ -50,7 +47,7 @@ params:
       height: 20
 
   footer:
-    displayCopyright: false
+    displayCopyright: true
     displayPoweredBy: true
 
   editURL:

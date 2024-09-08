@@ -1,6 +1,7 @@
 ---
 title: Keyboards
 type: blog
+draft: true
 prev: about/
 ---
 
