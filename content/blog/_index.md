@@ -1,18 +1,7 @@
 ---
 title: Blog
-next: blog/first-page
+type: blog
 ---
 
-This is a demo of the theme's documentation layout.
+This is a collection of thoughts which I find myself repeating over time, so, I'm putting them down for future reference.
 
-## Hello, World!
-
-```go {filename="main.go"}
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
