@@ -2,7 +2,6 @@
 title: '10% Rules'
 date: 2024-09-01T14:21:30-06:00
 type: blog
-prev: blog/
 ---
 
 This is a collection of lessons that I have come across that use 10% as the basis for their rule of thumb. Each of them has been, for me, as much a lesson in temperance as an actual rule to use in  daily life. I hope they hold a nugget for you, too.
