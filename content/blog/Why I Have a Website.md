@@ -2,14 +2,15 @@
 title: 'Why I Have a Website'
 date: 2024-09-04T21:35:49-06:00
 type: blog
-draft: true
 ---
 
-I have heard that a personal website is a way to express yourself openly on the web, both by what you present and how you present it. A website that you own is free from filtering, unless you so choose. Free from ads, unless you so choose. And so on. The potential for an unfiltered voice, if you will. 
+LinkedIn seized my account a couple weeks ago, and they won't give it back.
+
+I've heard that a personal website is good because it's a way to express yourself openly on the web, both by what you present and how you present it. A website that you own is free from filtering, unless you so choose. Free from ads, unless you so choose. And so on. The potential for an unfiltered voice, if you will.
 
 I know this, and have heard this, and have thought about it many times, but it always seemed more tedious than interesting and I've never felt that what I have to say was particularly worth the effort.
 
-However, my feelings changed dramatically when LinkedIn seized my account just a couple of weeks ago.
+However, my feelings changed dramatically at LinkedIn's seizure of my account.
 
 ### How it began
 
@@ -62,7 +63,7 @@ WTF? I haven't changed anything in my profile in years. I thought I'd been locke
 
 > Alexa: Due to our Privacy Policy, we are unable to release our additional findings, or any actions taken. For more information, please review LinkedIn's Terms of Service: https://www.linkedin.com/legal/user-agreement and Professional Community Policies: https://www.linkedin.com/help/linkedin/answer/34593. However, this will be our final communication concerning this matter.
 
-Didn't you just verify my identity? Why can't you tell me what's going on with my account? and, I guess, how could I fix it without access? 
+Didn't you just verify my identity? Why can't you tell me what's going on with my account? and, I guess, how could I fix it without access?
 
 So, there goes my account. Lost to the gods of zero-strike policy.
 
@@ -72,9 +73,6 @@ While it is disappointing to be served by a bot and get rejected outright while 
 
 I think that the reason I got flagged was actually because I customized my URL. I remember thinking that it was odd (and very fortunate) that no one had the non-gobbledegook URL reserved before I got there. But, it would not surprise me if there had been another account that was flagged for content at that URL, and that this was a case of mistaken identity. It wouldn't be the first time [something like this had happened](https://www.wired.com/story/null-license-plate-landed-one-hacker-ticket-hell/)
 
-I am both:
-* glad that LinkedIn will accept an affidavit, rather than a photo, and
-* glad that LinkedIn has stopped requesting photos of government ID over email, since
-    * email is not private (encryped) communication
-    * it is safest to regard anything in your email as public information. 
-    * Anyone sniffing traffic on the internet can read any email that is sent
+I appreciate that LinkedIn accepts an affidavit, because that means I don't _have_ to expose my personal information to random third parties.
+
+I am glad that LinkedIn has stopped accepting photos of IDs over email,since email is not encrypted (and therefore public) communication.

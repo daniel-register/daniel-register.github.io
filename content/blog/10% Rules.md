@@ -1,7 +1,6 @@
 ---
 title: '10% Rules'
 date: 2024-09-01T14:21:30-06:00
-draft: false
 type: blog
 prev: blog/
 ---
